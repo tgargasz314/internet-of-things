@@ -3,7 +3,6 @@
 #include <DS3231.h>
 DS3231 rtc;
 
-////sketch created by Akshay Joseph
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
